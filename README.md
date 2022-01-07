@@ -8,7 +8,7 @@ The main purpose of this project is to:
 
 I hope this will prepare me for the Rust, Maching Learning, and Cloud Database projects I have planned for the future.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lCyAL_oTcYQ)
 
 # Development Environment
 
